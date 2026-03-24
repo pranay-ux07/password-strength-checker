@@ -58,6 +58,3 @@ The application features a clean graphical user interface (GUI) and includes usa
 | GUI Framework   | Tkinter        |
 | Pattern Matching| Regex (`re`)   |
 
----
-
-## 📂 Project Structure
